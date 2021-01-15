@@ -19,7 +19,7 @@
 - 🌐 HTML | CSS | JavaScript | Bootstrap | Vue
 - 🛢  MySQL | Redis | Elasticsearch
 - 🔧 Visual Studio code | IDEA | Git
- None of the above
+  None of the above
 
 <br/>
 
