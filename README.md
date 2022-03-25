@@ -18,7 +18,7 @@
 - 💻 Java | GO | PHP  
 - 🌐 HTML | CSS | JavaScript | Bootstrap | Vue
 - 🛢  MySQL | Redis | Elasticsearch
-- 🔧 Visual Studio code | IDEA | Git
+- 🔧 Visual Studio code | IDEA | Git | EDA
 #### None of the above
 
 <br/>
