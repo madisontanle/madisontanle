@@ -15,7 +15,7 @@
 
 ### 🛠 Tech Stack
 
-- 💻 Java | GO | PHP  
+- 💻 Java | GO | PHP | C
 - 🌐 HTML | CSS | JavaScript | Bootstrap | Vue
 - 🛢  MySQL | Redis | Elasticsearch
 - 🔧 Visual Studio code | IDEA | Git | EDA
