@@ -6,17 +6,17 @@
 
 - 🔭 I’m …a boy.
 - 🤔 Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 Studying ….
+- 🎓 Studying … Beginner's version of hello world.
 - 💼 Back-end ….
 - 🌱 Love life and full of hope.
-- ✍️ Watching ….
-- ☕ I belive, Good things are about to happen.
+- ✍️ Watching … No release planned for now.
+- ☕ I belive ，Good things are about to happen.
 
 
 ### 🛠 Tech Stack
 
 - 💻 Java | GO | PHP | C
-- 🌐 HTML | CSS | JavaScript | Bootstrap | Vue
+- 🌐 HTML | CSS | JavaScript | Bootstrap | Vue | Notion
 - 🛢  MySQL | Redis | Elasticsearch
 - 🔧 Visual Studio code | IDEA | Git | EDA
 #### None of the above
