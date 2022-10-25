@@ -10,7 +10,7 @@
 - 💼 Back-end ….
 - 🌱 Love life and full of hope.
 - ✍️ Watching … No release planned for now.
-- ☕ I belive ，Good things will happen soon.
+- ☕ Good Good Study ， day day up .
 
 
 ### 🛠 Tech Stack
