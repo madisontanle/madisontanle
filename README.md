@@ -15,7 +15,7 @@
 
 ### 🛠 Tech Stack
 
-- 📒 Notion
+- 📒 Notion | Obsidian
 - 💻 Java | GO | PHP | C
 - 🌐 HTML | CSS | JavaScript | Bootstrap | Vue      
 - 🛢  MySQL | Redis | Elasticsearch
